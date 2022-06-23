@@ -1,0 +1,16 @@
+.screen-container {
+    cursor: not-allowed;
+    pointer-events: none,;
+    text-align: center;
+    text-align: -webkit-center;
+}
+.ytp-pause-overlay {
+    display: none;
+}
+
+.ytp-watermark {
+    display: none;
+}
+.ytp-chrome-top {
+    display: none;
+}

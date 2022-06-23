@@ -16,4 +16,6 @@ a {
 }
 
 @import './components/Header.css';
-@import './components/VideoList.css'
+@import './components/VideoList.css';
+@import './components/Video.css';
+@import './components/Script.css';

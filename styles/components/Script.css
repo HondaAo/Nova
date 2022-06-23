@@ -1,0 +1,17 @@
+.script-container {
+    width: 60%;
+    margin: 15px auto;
+    display: flex;
+}
+.left-button-container {
+    width: 15%;
+    align-self: center;
+}
+.text-container {
+    width: 70%;
+    text-align: left;
+}
+.right-button-container {
+    width: 15%;
+    align-self: center;
+}
